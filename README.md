@@ -1,4 +1,4 @@
-# Assignment 4 – Road Segmentation Challenge
+# Road Segmentation Challenge
 
 ## 🧭 Overview
 
